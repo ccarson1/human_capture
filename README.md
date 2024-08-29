@@ -11,3 +11,12 @@ pip install -r requirements.txt
 
 5.Run the project
 py .\human_capture.py
+
+
+
+
+##############
+git errors
+##############
+rm .git/COMMIT_EDITMSG
+git commit -m "Your commit message"
