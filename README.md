@@ -20,3 +20,18 @@ git errors
 ##############
 rm .git/COMMIT_EDITMSG
 git commit -m "Your commit message"
+
+
+git add .
+git commit -m ""
+git push
+
+git branch
+git branch //if needed to switch branch
+git pull origin master
+
+############
+resolve conflicts
+#############
+git add resolved-file
+git commit
